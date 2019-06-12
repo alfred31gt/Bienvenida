@@ -1,0 +1,17 @@
+body{
+background: url(../img/1.jpg);
+
+}
+
+
+/* bIenvenida*/
+.ctn-welcome{
+	width: 100%;
+	max-width: 500px;
+	text-align: center;
+	padding: 40px;
+	margin: auto;
+	margin-top: 100px;
+	background: url(../img/25.gif);
+	border-radius: 20px;
+}
